@@ -1,0 +1,7 @@
+# Calc & Hang Game Requirements
+# Python 3.6+ required
+
+# Optional: For colored terminal output
+# The game will work without this, but with less visual appeal
+colorama>=0.4.6
+
