@@ -1,10 +1,8 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 
 """
 Calc & Hang - İşlem Yap, Harfi Kurtar
 Hesap makinesi ve adam asmaca oyunlarının benzersiz birleşimi
-Yazar: Özgün Uygulama
+Yazar: Alperen Yağmur
 Tarih: Kasım 2025
 """
 
